@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Kristóf Tóth from Hungary, currently located in Maastricht.
+This is Kristóf Tóth from Hungary, located in the Netherlands.
 
-I'm pursuing my Master's degree @ UM. 
+Currently pursuing my Master's degree @ UM. 
 
-I'm currently exploring the capabilities of Next.js in some small projects, I already have some experience with Angular, Spring Boot.
+I'm exploring the capabilities of Next.js in some small projects, I already have some experience with Angular, Spring Boot.
 
 <!--
 **GuTory/Gutory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
