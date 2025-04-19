@@ -1,16 +1,15 @@
 ## Hi there!
 
-This is Kristóf Tóth from Hungary, located in the Netherlands.
+This is Kristóf Tóth from Hungary, located in the Netherlands pursuing my Master's program & Maastricht University.
 
-Currently pursuing my Master's degree @ UM.
+I'm exploring the possibilities of text summarization with different transformer models, and researching if retrieval-augmented generation (RAG) for context injection can cause any kind of performance improvement.
 
-I'm exploring the possibilities of text summarization with different transformer models, and if retrieval-augmented generation (RAG) for context injection can cause any kind of performance improvement. 
-This is my thesis topic.
+I was a software developer intern @ SAP Hungary, where I helped customers eliminate their issues with large-scale systems.
 
 ### Interests and knowledge
 
-- Web development: Spring Boot, Angular, Nex.js
-- Data Science/Machine Learning: Pandas, PyTorch
+- Web development: Spring Boot, Angular, Next.js
+- Data Science/Machine Learning: Pandas, PyTorch, Huggingface
 
 <!--
 **GuTory/Gutory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
