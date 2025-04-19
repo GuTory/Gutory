@@ -1,6 +1,6 @@
 ## Hi there!
 
-This is Kristóf Tóth from Hungary, located in the Netherlands pursuing my Master's program & Maastricht University.
+This is Kristóf Tóth from Hungary, located in the Netherlands pursuing my Master's program @ Maastricht University.
 
 I'm exploring the possibilities of text summarization with different transformer models, and researching if retrieval-augmented generation (RAG) for context injection can cause any kind of performance improvement.
 
